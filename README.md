@@ -54,7 +54,7 @@ To analyze India's air pollution patterns (2022–2025), identify major pollutan
 - 🧾 Top 10 most polluted monitoring stations  
 - 🔮 Forecast of PM2.5, NO₂, and O₃ trends till 2026  
 
-**📌 Dashboard Link:** [Click Here to View Power BI Dashboard](ADD_YOUR_DASHBOARD_LINK_HERE)
+**📌 Dashboard Link:** (https://analytics.zoho.in/open-view/484798000000013443))
 
 **Dashboard Reports:**  
 - `Pollutant_avg_norm_Analysis_Dashboard.pdf`  
@@ -137,20 +137,12 @@ and to the **Central Pollution Control Board (CPCB)** for providing open environ
 ## 📧 Contact
 **Author:** Prashant Gupta  
 📍 IIT Patna | DataVision 2025 Participant  
-📩 *For collaboration or queries:* [Add your email or LinkedIn link here]  
-🌐 *Project Dashboard:* [Insert Power BI public link once published]
+📩 *For collaboration or queries:* [Prashantgupta8064@gmail.com]  
+
 
 ---
 
 > *“The air we breathe defines the future we build. Through rigorous data analysis and evidence-based action, we can transform India's environmental trajectory from crisis to opportunity.”*
 
 
-## 📧 Contact
-**Author:** Prashant Gupta  
-📍 IIT Patna | DataVision 2025 Participant  
-📩 *For collaboration or queries:* [Add your email or LinkedIn link here]  
-🌐 *Project Dashboard:* [Insert Power BI public link once published]
 
----
-
-> *“The air we breathe defines the future we build. Through rigorous data analysis and evidence-based action, we can transform India's environmental trajectory from crisis to opportunity.”*
